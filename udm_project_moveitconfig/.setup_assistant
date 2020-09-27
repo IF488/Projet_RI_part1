@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: part_one_urdf
+    relative_path: urdf/robot_arm.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/RobotArm.srdf
+  CONFIG:
+    author_name: Ishan FOOLELL
+    author_email: ifoolell@student.udm.ac.mu
+    generated_timestamp: 1600501702
