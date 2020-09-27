@@ -15,7 +15,7 @@ Pour installer ce noeud il faut le cloner dans le dossier src de votre catkin wo
 
 ```
 cd catkin_ws/src
-git clone https://github.com/IF488/MIAR_ROS_1.git
+git clone https://github.com/IF488/Projet_RI_part1.git
 catkin build
 cd ..
 source devel/setup.bash
